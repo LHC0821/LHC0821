@@ -1,15 +1,3 @@
-<!-- 顶部信息 -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LHC0821" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHC0821&show_icons=true&theme=tokyonight" />
-</p>
-
-<br>
-
-<!-- 头部 -->
 <h1 align="center">👋 I'm H+.</h1>
 
 <p align="center">
@@ -26,7 +14,7 @@ Embedded Developer · STM32 · Robotics · Learning Analytics
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🔧 Embedded Software
 <p align="left">
@@ -64,14 +52,12 @@ Embedded Developer · STM32 · Robotics · Learning Analytics
 ## 🚀 Project
 
 ### 📊 Campus Learning Analytics System
-
 - Trajectory → Learning Behavior Modeling  
 - Kalman Filter for trajectory optimization  
 - WebSocket real-time communication  
 - JavaFX visualization  
 
 ### ⚙️ Wheel-Rail Integrated Mobile Platform
-
 - CAN Bus → Multi-node communication stack  
 - Swerve Drive → Coordinated kinematics control  
 - Power Systems → Custom PDB & Signal Hub design  
@@ -81,7 +67,7 @@ Embedded Developer · STM32 · Robotics · Learning Analytics
 
 ## 🏫 Experience
 
-2025级 && 华南农业大学 && 电子信息工程（数字创新班） 本科  
+**2025级 | 华南农业大学 | 电子信息工程（数字创新班） 本科**
 
 ### 🔬 单片机协会
 - 参与嵌入式开发学习与实践，完成基础外设驱动与控制系统开发  
@@ -100,5 +86,5 @@ Embedded Developer · STM32 · Robotics · Learning Analytics
 
 ## 📫 Contact
 
-- Email: 3060910239@qq.com  
-- GitHub: https://github.com/LHC0821  
+- **Email:** 3060910239@qq.com  
+- **GitHub:** [LHC0821](https://github.com/LHC0821)
