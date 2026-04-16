@@ -31,6 +31,7 @@ Embedded Developer · STM32 · Robotics · Learning Analytics
 <img src="https://img.shields.io/badge/Altium-Designer-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JLCEDA-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PCB-2--4Layer-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SolidWorks-green?style=for-the-badge"/>
 </p>
 
 ### 🤖 Robotics
