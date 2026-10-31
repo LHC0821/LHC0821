@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" alt="STM32" />
-  <img src="https://img.shields.io/badge/TI-MSPM0-CC0000?style=for-the-badge" alt="TI" />
+  <img src="https://img.shields.io/badge/嵌入式开发STM32/ESP32/TI/C51-03234B?style=for-the-badge" alt="嵌入式开发" />
+  <img src="https://img.shields.io/badge/机械Solidwork-CC0000?style=for-the-badge" alt="Solidwork" />
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge" alt="ROS2" />
-  <img src="https://img.shields.io/badge/C/Pytho-00599C?style=for-the-badge" alt="C/Python" />
+  <img src="https://img.shields.io/badge/C/Python-00599C?style=for-the-badge" alt="C/Python" />
   <img src="https://img.shields.io/badge/嘉立创eda/AD-3776AB?style=for-the-badge" alt="嘉立创eda/AD" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV/YOLO" />
+  <img src="https://img.shields.io/badge/视觉OpenCV/YOLO-5C3EE8?style=for-the-badge" alt="OpenCV/YOLO" />
 </p>
 
 <p align="center">
