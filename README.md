@@ -43,7 +43,7 @@
 | 嵌入式开发 | STM32F1、STM32H7、TI MSPM0、C51；C；HAL、DriverLib；中断、定时器、DMA 与外设驱动 |
 | 通信与设备接入 | UART、I2C、SPI、CAN / FDCAN；电机通信、视觉数据收发、nRF24L01 无线通信 |
 | 控制与运动 | PID、轮速闭环、数字量循迹、视觉误差控制、惯性测量与卡尔曼滤波；底盘和机械臂联调 |
-| 机器人软件 | ROS2、MoveIt；双七轴机械臂运动规划及上下位机联调实践 |
+| 机器人软件 | ROS2、MoveIt |
 | 视觉与实验 | Python、OpenCV、PyTorch / Ultralytics、RT-DETR；番茄检测数据处理、训练配置、结构对比与评估 |
 | 硬件设计 | 嘉立创 EDA、Altium Designer；原理图与 PCB 设计、电源设计、通信与传感器接口集成；二至四层 PCB 设计实践 |
 | 机械设计 | SolidWorks；机器人机构设计及软硬件协同调试 |
