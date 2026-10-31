@@ -11,11 +11,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" alt="STM32" />
-  <img src="https://img.shields.io/badge/TI-MSPM0-CC0000?style=for-the-badge" alt="TI MSPM0" />
+  <img src="https://img.shields.io/badge/TI-MSPM0-CC0000?style=for-the-badge" alt="TI" />
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge" alt="ROS2" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="C/Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="嘉立创eda/AD" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV/YOLO" />
 </p>
 
 <p align="center">
