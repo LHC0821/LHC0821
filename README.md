@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/ROS2/Moveit-22314E?style=for-the-badge" alt="ROS2" />
   <img src="https://img.shields.io/badge/C/Python-00599C?style=for-the-badge" alt="C/Python" />
   <img src="https://img.shields.io/badge/嘉立创eda/AD-3776AB?style=for-the-badge" alt="嘉立创eda/AD" />
-  <img src="https://img.shields.io/badge/OpenCV/YOLO-5C3EE8?style=for-the-badge" alt="OpenCV/YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV/YOLO/REDETR-5C3EE8?style=for-the-badge" alt="OpenCV/YOLO" />
 </p>
 
 <p align="center">
